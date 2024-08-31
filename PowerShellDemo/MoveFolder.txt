@@ -1,0 +1,3 @@
+Move-Item -Path "first.txt" -Destination "Folder"
+Move-Item -Path "second.txt" -Destination "Folder"
+Move-Item -Path "third.txt" -Destination "Folder"
